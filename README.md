@@ -1,1 +1,1 @@
-# This is the project under MBA UNIVERSE 
+# This is a demo replica website
